@@ -32,11 +32,8 @@
             <a href="https://www.facebook.com/profile.php?id=100010323518840" class="text-muted mr-1">
               <i class="fab fa-facebook-f"></i>
             </a>
-            <a href="#" class="text-muted mr-1">
+            <a href="https://twitter.com/DanielSanta07" class="text-muted mr-1">
               <i class="fab fa-twitter"></i>
-            </a>
-            <a href="#" class="text-muted mr-1">
-              <i class="fab fa-instagram"></i>
             </a>
             <a href="https://www.linkedin.com/in/santanaadaniel/" class="text-muted">
               <i class="fab fa-linkedin"></i>
@@ -62,7 +59,7 @@
         <h5 class="font-weight-normal"><?php echo 'About me' ?></h5>
         <p><?php echo 'I am a senior and a current cybersecurity manjor. I am originally from New York and came here for college as it was cheap and allowed me to see my brother who lives out here. I am in a fraternity and have enjoyed my time here while making some great friends and connections.' ?></p>
         <div class="my-2 bg-light p-2">
-          <p class="font-italic mb-0">The price is something not necessarily defined as financial. It could be time, effort, sacrifice, money or perhaps, something else.</p>
+          <p class="font-italic mb-0"><?php echo 'Tough times never last but tough people do -Robert H. Schuller' ?></p>
         </div>
         <div class="mb-2 mt-2 pt-1">
           <h5 class="font-weight-normal">Top skills</h5>
